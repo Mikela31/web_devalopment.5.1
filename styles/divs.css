@@ -1,0 +1,36 @@
+body{
+    background-color: #ffa9b0;
+    color: white;
+}
+
+
+
+
+
+div{
+    
+
+    
+}
+.bigBox{
+    display:flex;
+    height: 50vh;
+    justify-content: space-around;
+}
+
+.smallBox{
+    flex-grow: 1;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-right: 50px;
+    border: 1px solid black;
+}
+
+
+.pink{
+    background-color: #c45da2;
+}
+
+.blue{
+    background-color: #6aadce;
+}
