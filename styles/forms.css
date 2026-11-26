@@ -1,0 +1,53 @@
+
+
+fieldset{
+    background-color :#7ad3fa;
+    border:1px solid #0a497c;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+legend{
+    color: #d6dfe7;
+    background-color: #246a82;
+    border: 1px solid #1c5466;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* Start of footer styles */
+
+
+footer{
+    display: flex;
+    background-color: #7ad3fa;
+    padding: 0% 10%;
+}
+footer ul{
+list-style: none;
+}
+
+footer ul li{
+margin-top: 20px;
+}
+
+footer ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+footer ul li a:hover{
+    color: #6c614c;
+}
+
+footer div{
+    flex: 1;
+}
+
+footer .mapDiv{
+    padding:20px;
+}
+/* End of footer styles */
